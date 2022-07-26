@@ -1,5 +1,5 @@
-Google PM Certification
+Google PM Certification:
 
-Course Project artifacts
+1. Course Project artifacts
 
-Diploma Capstone Project artifacts
+2. Diploma Capstone Project artifacts

@@ -1,4 +1,4 @@
 # Projects_public
-Public projects. 
+Public projects and certificates. 
 
 FYI
